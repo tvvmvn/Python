@@ -1,0 +1,10 @@
+# Or you can delete the tuple completely:
+
+
+# The del keyword can delete the tuple completely:
+thistuple = ("apple", "banana", "cherry")
+
+del thistuple
+
+#this will raise an error because the tuple no longer exists
+print(thistuple) 
